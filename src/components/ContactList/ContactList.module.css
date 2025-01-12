@@ -1,0 +1,10 @@
+.listItem {
+  line-height: 1.7rem;
+}
+.buttons {
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: darkslategray;
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.section input {
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.section input:focus {
+  outline-color: blueviolet;
+}
